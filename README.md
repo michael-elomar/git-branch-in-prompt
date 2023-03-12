@@ -1,5 +1,5 @@
 # git-branch-in-prompt
-A script to add git branch name in terminal prompt
+A script to add git branch name in terminal prompt. Add these commands at the end of ```~/.bashrc```
 
 1. ```source git-prompt.sh```
 2. ```GIT_PS1_SHOWDIRTYSTATE=true```
